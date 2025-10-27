@@ -1,0 +1,5 @@
+{
+  "name": "React PDF Editor",
+  "description": "An interactive PDF editor built with React, allowing users to upload, add text, add checkmarks, and download their edited PDF files directly in the browser.",
+  "requestFramePermissions": []
+}
